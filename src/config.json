@@ -1,0 +1,72 @@
+{
+    "clientid": "493824633250775040",
+    "prefix": "!",
+    "version": "3.0.2",
+    "chat": "",
+    "userrole1": "510536279453204490",
+    "userrole2": "510536280359305217",
+    "evalAllowed": "true",
+    "ownerid": "194510483536085003",
+    "logging": false,
+    "captchaType": "image",
+    "commands": {
+        "blockUser": {
+            "command": "block",
+            "contributors": [],
+            "enabled": false
+        },
+        "removeBlockFromUser": {
+            "command": "removeBlock",
+            "contributors": [],
+            "enabled": false
+        },
+        "banGuildMember": {
+            "command": "ban",
+            "contributors": [],
+            "enabled": false
+        },
+        "clear": {
+            "command": "clear",
+            "contributors": [],
+            "enabled": false
+        },
+        "version": {
+            "command": "version",
+            "enabled": false
+        },
+        "queries": {
+            "command": "queries",
+            "enabled": false,
+            "contributors": []
+        },
+        "querydelete": {
+            "command": "querydelete",
+            "enabled": false,
+            "contributors": []
+        },
+        "purgelogs": {
+            "command": "purgelogs",
+            "enabled": false,
+            "contributors": []
+        },
+        "logs": {
+            "command": "logs",
+            "enabled": false,
+            "contributors": []
+        },
+        "captchas": {
+            "command": "captchas",
+            "enabled": false,
+            "contributors": []
+        },
+        "makerole": {
+            "command": "create-role",
+            "enabled": false,
+            "contributors": []
+        },
+        "unverify": {
+            "command": "unverify",
+            "enabled": false
+        }
+    }
+}
